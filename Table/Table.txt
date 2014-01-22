@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+        <head> 
+                <meta charset="UTF-8" />
+                <title>Klädbutiker i Göteborg</title>
+                <link rel="stylesheet" type="text/css" href="style.css" />
+        </head>
+<body>
+
+        <table>
+        <thead>
+                <tr>
+                        <th>Klädbutiker i Göteborg</th>
+                        <th>Toppar</th>
+                        <th>Byxor</th>
+                        <th>Skärp</th>
+                        <th>Smycken/Övriga accessoarer</th>
+                </tr>
+        </thead>
+        <tbody>
+                <tr>
+                        <td>Hennes & Mauritz</td>
+                        <td>50%</td>
+                        <td>25%</td>
+                        <td>10%</td>
+                        <td>15%</td>
+                </tr>
+                <tr>
+                        <td>BikBok</td>
+                        <td>60%</td>
+                        <td>30%</td>
+                        <td>1%</td>
+                        <td>9%</td>
+                </tr>
+                <tr>
+                        <td>Carlings</td>
+                        <td>55%</td>
+                        <td>50%</td>
+                        <td>5%</td>
+                        <td>0%</td>
+                </tr>
+                <tr>
+                        <td>Lindex</td>
+                        <td>60%</td>
+                        <td>10%</td>
+                        <td>10%</td>
+                        <td>20%</td>
+                </tr>
+                <tr>
+                        <td>SOLO</td>
+                        <td>60%</td>
+                        <td>30%</td>
+                        <td>10%</td>
+                        <td>0%</td>
+                </tr>
+                <tr>
+                        <td>Hollywood</td>
+                        <td>50%</td>
+                        <td>40%</td>
+                        <td>9%</td>
+                        <td>1%</td>
+                </tr>
+                <tr>
+                        <td>Cubus</td>
+                        <td>60%</td>
+                        <td>20%</td>
+                        <td>10%</td>
+                        <td>10%</td>
+                </tr>
+                <tr>
+                        <td>Zara</td>
+                        <td>40%</td>
+                        <td>30%</td>
+                        <td>10%</td>
+                        <td>20%</td>
+                </tr>
+                <tr>
+                        <td>Dressman</td>
+                        <td>40%</td>
+                        <td>30%</td>
+                        <td>10%</td>
+                        <td>20%</td>
+                </tr>
+                <tr>
+                        <td>Weekday</td>
+                        <td>20%</td>
+                        <td>70%</td>
+                        <td>3%</td>
+                        <td>7%</td>
+                </tr>
+        </tbody>
+        
+        </table>
